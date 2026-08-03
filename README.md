@@ -139,7 +139,7 @@ Automation tools and management utilities for Discord communities.
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=Afif-Ahmad-tech&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Afif-Ahmad-tech&icon=0)](https://visitcount.itsvg.in)
 
 </div>
 
